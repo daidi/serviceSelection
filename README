@@ -9,5 +9,5 @@ my homework for a specialized course opened in harbin insitute of technology.It'
 │└Data Preprocessed.xlsx          a pre-wrok in order to make the problem more easy to understand and handled
 ├ServiceSelectionProject/
 │├src/
-│└libs/                           jars to make bar chart 
+│└libs/                           jars to make bar chart using jfreechart 
 └README
