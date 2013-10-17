@@ -1,0 +1,13 @@
+my homework for a specialized course opened in harbin insitute of technology.It's a pity that it doesn't work well at last,but I will complete it sonner or later.
+
+*************Directory Structure*****************
+├problems/                        what this project will solve
+│├Problem Definiton.txt           
+│├QoS Requirement.txt
+│├Service Candidates Set.txt
+│├Service Procedure.txt
+│└Data Preprocessed.xlsx          a pre-wrok in order to make the problem more easy to understand and handled
+├ServiceSelectionProject/
+│├src/
+│└libs/                           jars to make bar chart 
+└README
