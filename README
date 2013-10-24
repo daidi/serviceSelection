@@ -6,7 +6,7 @@ my homework for a specialized course opened in harbin insitute of technology.It'
 │├QoS Requirement.txt
 │├Service Candidates Set.txt
 │├Service Procedure.txt
-│└Data Preprocessed.xlsx          a pre-wrok in order to make the problem more easy to understand and handled
+│└Data Preprocessed.xlsx          a pre-wrok in order to make the problem easy to be understood
 ├ServiceSelectionProject/
 │├src/
 │└libs/                           jars to make bar chart using jfreechart 
